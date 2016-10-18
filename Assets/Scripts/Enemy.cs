@@ -7,14 +7,15 @@ public class Enemy : Character
 
 	Rigidbody _rb;
 
+
 	void Start()
 	{
 		_rb = this.GetComponent<Rigidbody> ();
 	}
 
+
 	public void Knockback(float dir)
 	{
-		print ("Knockback!!!");
 		_rb.AddForce (new Vector3(dir * knockBackForce, 0, 0));
 	}
 

@@ -27,7 +27,7 @@ public class PlayerController : Character
 	//Private variables
 
 	Rigidbody _rb = new Rigidbody();
-	public int bullets = 10; //number of bullets available to throw
+	int bullets = 0; //number of bullets available to throw
 
 
 

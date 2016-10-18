@@ -1,14 +1,13 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Enemy.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerController.cs">
     <Files>
-      <File FileName="Assets\Scripts\PlayerController.cs" Line="117" Column="47" />
-      <File FileName="Assets\Scripts\FollowPlayer.cs" Line="12" Column="2" />
-      <File FileName="Assets\Scripts\Character.cs" Line="9" Column="9" />
-      <File FileName="Assets\Scripts\TimedDestroyer.cs" Line="22" Column="2" />
-      <File FileName="Assets\Scripts\BulletCollect.cs" Line="8" Column="19" />
-      <File FileName="Assets\Scripts\BulletShot.cs" Line="8" Column="45" />
-      <File FileName="Assets\Scripts\Enemy.cs" Line="12" Column="3" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BulletGenerator.cs" Line="25" Column="32" />
+      <File FileName="Assets\Scripts\Timer.cs" Line="23" Column="16" />
+      <File FileName="Assets\Scripts\EnemyGenerator.cs" Line="42" Column="3" />
+      <File FileName="Assets\Scripts\TreeDestroyer.cs" Line="11" Column="19" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="42" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

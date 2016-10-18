@@ -1,7 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class BulletShot : MonoBehaviour {
+public class BulletShot : MonoBehaviour 
+{
 
 	void OnTriggerEnter(Collider other)
 	{
